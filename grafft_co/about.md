@@ -1,24 +1,50 @@
-# About
-## *Integrity is not certainty*
-A clinical mentor of mine gave me a small gift when I graduated from [Northwestern Health Sciences University](https://www.nwhealth.edu/); I wanted to do the same for my Data Science students. 
+## About
+### *Integrity is not certainty*
+A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from [Northwestern Health Sciences University][nwhsu] and he wanted to do the same for his students. 
 
 **IMAGE OF BOOKMARK, BOTH SIDES**
 
-[Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) demonstrates the need to reason about data via many transformation functions ("views"). The phrase *Integrity is not certainty* is my way of suggesting this is a necessary and responsible effort.
+<small>Printed by [Cards of Wood](https://www.cardsofwood.com/)</small>
 
-## Favicon, GitHub Avatar, ...
+[Anscombe's Quartet][quartet] demonstrates the need to reason about data via many transformation functions ("views"). The phrase *Integrity is not certainty* suggests this is a necessary and responsible effort.
+
+### Favicon/Web Avatar
+Given by his gongfu instructor, Steve Collins, (and financed by his parents) when Jason was promoted to instructor in **CHARACTERS** (*long2quan2gong3fu3*, lit. "dragon fist gong fu").
 
 **IMAGE OF long2quan2 SEAL IMPRINT, CHOP(?)**
 
-This was given to me (and financed by my parents, I believe) by my gongfu instructor, Steve Collins, when he promoted me to instructor in our gongfu system **CHARACTERS** (*long2quan2*, lit. "dragon fist").
-
-The artist, Mr. Henry Li of [Blue Heron Arts](https://www.blueheronarts.com/), had to invent a rendering for **CHARACTERS** (*quan2*, lit. "fist") because it is, alomst literally, too vulgar a character to be represented in seal script. Mr. Li tells the story much better than I, *and* you can watch him etch the chop!
+The artist, Mr. Henry Li of [Blue Heron Arts][bha], had to invent a rendering for **CHARACTERS** (*quan2*, lit. "fist") because it is, alomst literally, too vulgar to be represented in canonized seal script. Hear the story and watch him carve the seal!
 
 1. [Custom Design and Carving of a Lung Quan Dragon Seal for Steve Collins (1/2)](https://youtu.be/JCHzsLWwh_k)
 1. [Custom Design and Carving of a Lung Quan Dragon Seal for Steve Collins (2/2)](https://youtu.be/PhChzTgj6Qk)
 
-## Me
 ### Combat Sports
-I have trained martial arts for over 30 years, and still train actively though "retired" from competition. Striking and clinch work are my preference—Glory/K-1, Muay Thai, Sanshou, Boxing, Krav Maga—though I train and very much respect grappling. My home gym is [Spartan Martial Arts](https://spartanmartialartsgym.com/).
+Jason has practiced martial arts for over 30 years, a majority full-contact. Though "retired" from competition he assists with the fight team and maintains an active training schedule focused on striking and clinch work. His home gym is [Spartan Martial Arts][sma].
 
-### Fountain Pens, Notebooks, &amp; Bullet Journaling
+### Fountain Pens, Notebooks, and Bullet Journaling
+- Bullet Journaling
+    - The Book
+- Notebooks
+    - Blackwing
+    - Clairefontaine
+    - Karst
+- Retailers
+    - Goulet Pens
+- Pencils
+    - Blackwing
+    - Karst
+- Pens
+    - Pilot/Namiki
+    - Platinum
+    - Sailor
+
+### Medicine and Medical Education
+Jason is a master teacher and third-generation prehospital provider who holds a Master of Acupuncture from [Northwestern Health Sciences University][nwhsu]. Principally trained by his father (Joseph A. Grafft, prehospital), mother (Kathy Grafft, nursing), and [Wei Liu][wla] (Chinese acupuncture) with strong support from mentors Steve Collins, Chris Hafner, Yongping Jiang, Chris Nollette, and Mojca Konia. Thanks to these contributions, Jason has enjoyed an impactful career as a teacher and educator.
+
+[bha]: https://www.blueheronarts.com/
+[nwhsu]: https://www.nwhealth.edu/
+[quartet]: https://en.wikipedia.org/wiki/Anscombe%27s_quartet
+[sma]: https://spartanmartialartsgym.com/
+[wla]: http://weiliuacupuncture.com/
+
+###### tags: `grafft.co`
