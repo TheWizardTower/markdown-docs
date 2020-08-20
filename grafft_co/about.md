@@ -2,7 +2,9 @@
 ## *Integrity is not certainty*
 A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from [Northwestern Health Sciences University][nwhsu] and he wanted to do the same for his students. 
 
-**IMAGE OF BOOKMARK, BOTH SIDES**
+| | |
+|-|-|
+|![Front](img/bookmark-front.jpg)|![Back](img/bookmark-back.jpg)|
 
 <small>Printed by [Cards of Wood](https://www.cardsofwood.com/)</small>
 
@@ -11,7 +13,9 @@ A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from [
 ## Favicon/Web Avatar
 Given by his gongfu instructor, Steve Collins, (and financed by his parents) when Jason was promoted to instructor in **CHARACTERS** (*long2quan2gong3fu3*, lit. "dragon fist gong fu").
 
-**IMAGE OF long2quan2 SEAL IMPRINT, CHOP(?)**
+|||
+|-|-|
+|![Image of long2quan2 seal](img/long2quan2_seal.jpg)|![long2quan2 chop by Mr. Henry Li](img/long2quan2_chop.jpg)|
 
 The artist, Mr. Henry Li of [Blue Heron Arts][bha], had to invent a rendering for **CHARACTERS** (*quan2*, lit. "fist") because it is, alomst literally, too vulgar to be represented in canonized seal script. Hear the story and watch him carve the seal!
 
@@ -39,7 +43,7 @@ Jason has practiced martial arts for over 30 years, a majority full-contact. Tho
     - Sailor
 
 ## Medicine and Medical Education
-Jason is a master teacher and third-generation prehospital provider who holds a Master of Acupuncture from [Northwestern Health Sciences University][nwhsu]. Principally trained by his father (Joseph A. Grafft, prehospital), mother (Kathy Grafft, nursing), and [Wei Liu][wla] (Chinese acupuncture) with strong support from mentors Steve Collins, Chris Hafner, Yongping Jiang, Chris Nollette, and Mojca Konia. Thanks to these contributions, Jason has enjoyed an impactful career as a teacher and educator.
+Jason is a master teacher and third-generation prehospital provider who holds a Master of Acupuncture from [Northwestern Health Sciences University][nwhsu]. Principally trained by his father (Joseph A. Grafft, prehospital), mother (Kathy Grafft, nursing), and [Wei Liu][wla] (Chinese acupuncture) with strong support from mentors Steve Collins, Chris Hafner, Yongping Jiang, Chris Nollette, and Mojca Konia. Thanks to these contributions, Jason has enjoyed an impactful career as a teacher and educator in Health Sciences.
 
 [bha]: https://www.blueheronarts.com/
 [nwhsu]: https://www.nwhealth.edu/
