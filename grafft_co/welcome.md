@@ -5,4 +5,6 @@ The peculiarities and inconveniences of temporally-bounded set interactions have
 
 Jason's current employer, RelationalAI, is pioneering the use of "Graph Normal Form" (6NF) and relational algebras for data storage and computation over stored data. At SimPORTAL (University of Minnesota Medical School), Jason pioneered the use of causal inference for Psychomotor Skill evaluation. See more in his CV.
 
+Personally, Jason actively trains martial arts and serves the whims of two cats. See more in About.
+
 ###### tags: `grafft.co`
