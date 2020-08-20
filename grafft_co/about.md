@@ -1,4 +1,4 @@
-# About
+# about
 ## *Integrity is not certainty*
 A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from [Northwestern Health Sciences University][nwhsu] and he wanted to do the same for his students. 
 
