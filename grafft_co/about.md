@@ -2,6 +2,7 @@
 - [Combat Sports](#Combat-Sports)
 - [Favicon/Web Avatar](#FaviconWeb-Avatar)
 - [Fountain Pens, Notebooks, and Bullet Journaling](#Fountain-Pens-Notebooks-and-Bullet-Journaling)
+- [grafft.co](#grafftco)
 - *[Integrity is not certainty](#Integrity-is-not-certainty)*
 - [Knowledge Engineer?](#Knowledge-Engineer)
 - [Medicine and Medical Education](#Medicine-and-Medical-Education)
@@ -40,6 +41,14 @@ The artist, Mr. Henry Li of <a href="https://www.blueheronarts.com/" target="_bl
 - Pencils
     - Blackwing
     - Karst
+
+## `grafft.co` <small>(<a href="https://github.com/jagrafft/grafft.co/" target="_blank">GH</a>)</small>
+- Acknowledgements in footer
+- Dynamic client-side rendering
+    - <a href="https://daringfireball.net/projects/markdown/" target="_blank">Markdown</a>
+        - Edited with <a href="https//hackmd.io" target="_blank">HackMD</a>
+        - Versioned with, linked from <a href="https://github.com/jagrafft/markdown-docs" target="_blank">GitHub</a>
+    - <a href="https://riot.js.org/" target="_blank">riot.js</a>
 
 ## *Integrity is not certainty*
 A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from Northwestern Health Sciences University and he wanted to do the same for his students. 
