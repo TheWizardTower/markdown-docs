@@ -1,9 +1,10 @@
 # about
 - [Combat Sports](#Combat-Sports)
 - [Favicon/Web Avatar](#FaviconWeb-Avatar)
-- [Fountain Pens, Notebooks, and Bullet Journaling](Fountain-Pens-Notebooks-and-Bullet-Journaling)
-- *[Integrity is not certainty](Integrity-is-not-certainty)*
-- [Medicine and Medical Education](Medicine-and-Medical-Education)
+- [Fountain Pens, Notebooks, and Bullet Journaling](#Fountain-Pens-Notebooks-and-Bullet-Journaling)
+- *[Integrity is not certainty](#Integrity-is-not-certainty)*
+- [Knowledge Engineer?](#Knowledge-Engineer)
+- [Medicine and Medical Education](#Medicine-and-Medical-Education)
 
 ## Combat Sports
 Jason has practiced martial arts for over 30 years, a majority full-contact. Though "retired" from competition he assists with the fight team and maintains an active training schedule focused on striking and clinch work. His home gym is <a href="https://spartanmartialartsgym.com/" target="_blank">Spartan Martial Arts</a>.
@@ -50,6 +51,9 @@ A clinical mentor, Chris Hafner, gifted a small item when Jason graduated from N
 <small>Printed by <a href="https://www.cardsofwood.com/" target="_blank">Cards of Wood</a></small>
 
 <a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet" target="_blank">Anscombe's Quartet</a> demonstrates the need to reason about data via many transformation functions ("views"). The phrase *Integrity is not certainty* suggests this is a necessary and responsible effort.
+
+## Knowledge Engineer?
+*[CONTENT]*
 
 ## Medicine and Medical Education
 Jason is a master teacher and third-generation prehospital provider who holds a Master of Acupuncture from <a href="https://www.nwhealth.edu/" target="_blank">Northwestern Health Sciences University</a>. Principally trained by his father (Joseph A. Grafft, prehospital), mother (Kathy Grafft, nursing), and <a href="http://weiliuacupuncture.com/" target="_blank">Wei Liu</a> (Chinese acupuncture) with strong support from mentors Steve Collins, Chris Hafner, Yongping Jiang, Chris Nollette, and Mojca Konia. Thanks to these contributions, Jason has enjoyed an impactful career as a teacher and educator in Health Sciences.
