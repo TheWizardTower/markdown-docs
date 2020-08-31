@@ -17,7 +17,7 @@ This is the imprint of a chop given to me by my parents and Steve Collins, my *g
 
 |||
 |-|-|
-|![long2quan2 chop by Mr. Henry Li - TK View](img/long2quan2_seal-side.jpg)|![long2quan2 chop by Mr. Henry Li - TK View](img/long2quan2_chop-seal.jpg)|
+|<img src="img/long2quan2_chop-side.jpg" alt="long2quan2 chop by Mr. Henry Li - Side View" height=33% />|<img src="img/long2quan2_chop-seal.jpg" alt="long2quan2 chop by Mr. Henry Li - Chop View" height=33% />|
 
 The artist, Mr. Henry Li of <a href="https://www.blueheronarts.com/" target="_blank">Blue Heron Arts</a>, had to invent a rendering for 拳 (*quan2*, lit. "fist") because it is&mdash;alomst literally&mdash;too vulgar to be represented in canonized seal script. Hear the story and watch him carve the seal
 
@@ -60,7 +60,7 @@ A clinical mentor, Chris Hafner, gifted me a small item when I graduated from No
 
 | | |
 |-|-|
-|![Front](img/bookmark-front.jpg)|![Back](img/bookmark-back.jpg)|
+|<img src="img/bookmark-front.jpg" alt="Bookmark - Front" height=33% />|<img src="img/bookmark-back.jpg" alt="Bookmark - Back" height=33% />|
 
 <small>Printed by <a href="https://www.cardsofwood.com/" target="_blank">Cards of Wood</a></small>
 
