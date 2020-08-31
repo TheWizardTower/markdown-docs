@@ -73,3 +73,4 @@ See *Working Definition of Knowledge Engineering*.
 
 ## <div id="Medicine-and-Medical-Education">Medicine and Medical Education</div>
 I am a master teacher and third-generation prehospital provider. My first degree is Master of Acupuncture from <a href="https://www.nwhealth.edu/" target="_blank">Northwestern Health Sciences University</a>. I was fortunate enough to be trained by my father (Joseph A. Grafft, prehospital), mother (Kathy Grafft, nursing), and <a href="http://weiliuacupuncture.com/" target="_blank">Wei Liu</a> (Chinese acupuncture), with strong support from Steve Collins, Chris Hafner, Yongping Jiang, Chris Nollette, and Mojca Konia. Thanks to them, and many others, I enjoyed an impactful career in health education.
+
