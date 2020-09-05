@@ -1,6 +1,6 @@
 # [J][jsoftware]
 ## Apply function to subarrays
-```
+```j
 f =: -/&> NB. Subtract values in subarrays
 
 X =: 1 2 ; 3 4 ; 5 6
@@ -8,7 +8,7 @@ f X NB. => _1 _1 _1
 ```
 
 ## [Valence][valence]: Monadic, Dyadic, and Ambivalent functions
-```
+```j
 u =: 1 + i.5
 v =: 10 + u
 
