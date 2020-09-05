@@ -41,5 +41,8 @@ u a v NB. => 0.0909091 0.166667 0.230769 0.285714 0.333333
 v a u NB. => 11 6 4.33333 3.5 3
 ```
 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 [jsoftware]: https://www.jsoftware.com/
 [valence]: https://code.jsoftware.com/wiki/Vocabulary/Valence
