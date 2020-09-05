@@ -1,6 +1,4 @@
 # Jason A Grafft's Collection of Markdown Documents
-For durable public notes and [grafft.co](https://grafft.co).
-
 - [Curriculum Vitae][cv]
 - [grafft.co][grafftco]
 - [Programming Language Notes][pln]
