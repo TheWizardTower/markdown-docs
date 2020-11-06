@@ -7,6 +7,7 @@ f =: -/&> NB. Subtract values in subarrays
 X =: 1 2 ; 3 4 ; 5 6
 f X NB. => _1 _1 _1
 ```
+
 ### Slice
 ```j
 u =: 1 + i.10 NB. => 1 2 3 4 5 6 7 8 9 10
@@ -16,6 +17,32 @@ NB. Take index 7 (Take 1 starting with index 7)
 
 NB. Take 3 starting with index 2
 3 {. 2 }. u NB. => 3 4 5
+```
+
+### Take Value(s) at Random Index from Array
+```j
+values =: 'ABCDEFGHIJKL'
+
+take_random_index =: 3 : 0
+  (1 ? #y) { y
+)
+
+take_random_index values NB. => [A-L]
+
+take_random_value =: 3 : 0
+  take_random_index values
+)
+
+take_random_value 9909123 NB. => [A-L]
+take_random_value &> i.1 NB. => [A-L] ;
+take_random_value &> i.5 NB. => [A-L] ; [A-L] ; [A-L] ; [A-L] ; [A-L]
+
+take_random_values =: 3 : 0
+  vals =: take_random_value &> i.y
+  (1 , #vals) ($ ,) vals
+)
+
+take_random_values 10 NB. => [A-L] [A-L] [A-L] [A-L] [A-L] [A-L] [A-L] [A-L] [A-L] [A-L]
 ```
 
 ### [Valence][valence]: Monadic, Dyadic, and Ambivalent functions
@@ -51,8 +78,6 @@ a v NB. => _11 _12 _13 _14 _15
 u a v NB. => 0.0909091 0.166667 0.230769 0.285714 0.333333
 v a u NB. => 11 6 4.33333 3.5 3
 ```
-
-## `[jd][jddb]`
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
