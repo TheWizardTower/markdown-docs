@@ -4,7 +4,7 @@
 
 ### Thinkful, 08.2018--10.2020
 
-### Unversity of Minnesota Medical School M Simulation, 11.2014--10.2019
+### University of Minnesota Medical School M Simulation, 11.2014--10.2019
 
 ### Laerdal Medical, 05.2013--11.2014
 
