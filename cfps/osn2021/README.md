@@ -5,13 +5,13 @@
 We are OPEN to a variety of Enterprise Application Development topics. Here are a few to consider:
 
 - Front End
-  - Development tools, Frameworks, _State Management (ST WASM)_, Browser API’s, Accessibility, Performance Optimization, Architecture, Languages, Behavior Monitoring, Testing Libraries
+  - Development tools, Frameworks, State Management Browser API’s, Accessibility, Performance Optimization, Architecture, Languages, Behavior Monitoring, Testing Libraries
 - Back End
-  - Architecture, Languages, Integration & Services tools, Enterprise Application Platforms, _Distributed Platforms_, **Microservices**, _Messaging_, Frameworks
+  - Architecture, Languages, Integration & Services tools, Enterprise Application Platforms, Distributed Platforms, Microservices, Messaging, Frameworks
 - Cloud
   - AWS, Azure, Google Cloud Platform, Benefits/Risks/Costs, Containers & Container Management, Cloud Ops, Serverless
 - Data
-  - _Big Data_, Analytics, **Visualization**, **Machine Learning/AI**, Platform Administration, Architecture, **Databases**
+  - Big Data, Analytics, Visualization, **Machine Learning/AI (rML)**, Platform Administration, Architecture, Databases
 - DevOps
   - Build and Deployment Tools, CI/CD, Configuration, Code Coverage, Pipeline Monitoring
 - Delivery
@@ -23,4 +23,4 @@ We are OPEN to a variety of Enterprise Application Development topics. Here are 
 - Open Source Projects
   - How-to, Case Studies, Definition, Ethics
 - Open & Other
-  - **Ideation (CT)**, _Career Development_, IoT APIs
+  - Ideation (CT), Career Development, IoT APIs
